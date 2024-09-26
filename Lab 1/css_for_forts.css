@@ -1,0 +1,40 @@
+body {
+    font-size: 20px;
+    font-family: cursive;
+    background-color: #FFFDD0;
+    color: brown;
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    text-align: center;
+    color: indigo;
+}
+
+mark{
+    background-color:aquamarine;
+    color: black;
+    text-decoration: underline;
+}
+
+.container {
+    padding-left: 100px;
+    padding-right: 100px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+}
+
+table td {
+    vertical-align: top;
+}
+
+td img {
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+}
